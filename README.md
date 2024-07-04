@@ -19,7 +19,7 @@ In this repository:
 <img src="https://github.com/samuelcampione/stanford_ehr_data_analysis/blob/main/visualizations/most_prevalent_conditions_2010.png" width="600"/>
 
 ## Average number of drugs per person
-<img src="https://github.com/samuelcampione/stanford_ehr_data_analysis/blob/main/visualizations/duration_of_simvastatin_violinplot.png" width="300"/>
+<img src="https://github.com/samuelcampione/stanford_ehr_data_analysis/blob/main/visualizations/avg_number_drugs_per_person.png" width="600"/>
 
 ## Average duration that the Simvastatin 40 mg
 <img src="https://github.com/samuelcampione/stanford_ehr_data_analysis/blob/main/visualizations/duration_of_simvastatin_violinplot.png" width="300"/>
